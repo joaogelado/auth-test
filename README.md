@@ -5,8 +5,8 @@
 Packages:
 
 - Next.js
-- - React
-- - React dom
+  - React
+  - React dom
 - Nookies
 - Bcrypt
 - Sqlite (and Sqlite3 too!)
