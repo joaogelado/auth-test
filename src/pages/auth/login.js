@@ -1,4 +1,4 @@
-import styles from "../../styles/Login.module.css";
+import styles from "../../frontend/styles/Login.module.css";
 import Head from "next/head";
 
 export default function login() {

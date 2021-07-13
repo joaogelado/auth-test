@@ -130,8 +130,8 @@
 }
 
 .linkone {
-  background: #dfdfdf;
-  border: 1px solid #f0f0f00f;
+  background: #eaeaea;
+  border: 1px solid #1d1d1d;
   border-radius: 8px;
 
   padding: 0.4rem 0.8rem;
@@ -139,8 +139,8 @@
 }
 
 .linktwo {
-  background: #dfdfdf;
-  border: 1px solid #f0f0f00f;
+  background: #eaeaea;
+  border: 1px solid #1d1d1d;
   border-radius: 8px;
   margin-left: 1rem;
 
@@ -151,7 +151,7 @@
 
 .linkone:hover,
 .linktwo:hover {
-  background: #eaeaea;
+  background: #dfdfdf;
   border: 1px solid #000000;
   border-radius: 8px;
 
