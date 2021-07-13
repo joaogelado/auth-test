@@ -11,3 +11,4 @@ Packages:
 - Bcrypt
 - Sqlite (and Sqlite3 too!)
 - Axios
+- UUID
